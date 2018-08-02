@@ -2,9 +2,20 @@ body {
   text-align: left;
 }
 
-p {
-  display:block;
-  vertical-align: middle;
+.bold {
+  font-weight: 800;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: green;
 }
 
 .welcome {
@@ -67,7 +78,6 @@ h4 {
   border: solid #70588c 1px;
   height: 200px;
   height: 450px;
-
 }
 
 .purplebox h4 {
