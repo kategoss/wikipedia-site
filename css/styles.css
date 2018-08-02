@@ -8,6 +8,7 @@
   background: #f6ffef;
   padding: 10px;
   border: solid #b9e5c1 1px;
+  height: 600px;
 }
 
 .greenbox h4 {
@@ -29,12 +30,35 @@ h4 {
 
 .bluebox {
   background: #ced3ef;
+  height: 600px;
 }
 
 .bluebox h4 {
   background: #a0a8d3;
+  border: solid #829185 1px;
 }
 
 #ian {
   float: left;
+}
+
+#chief {
+  float: left;
+  height: 300px;
+  width: auto;
+}
+.box {
+  margin: 2px;
+  padding: 10px;
+}
+
+.purplebox {
+  background: #bd99e5;
+  border: solid #70588c 1px;
+  height: 200px;
+}
+
+.purplebox h4 {
+  background: #9a7eba;
+  border: solid #77628e:
 }
