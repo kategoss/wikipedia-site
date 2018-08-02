@@ -5,6 +5,36 @@
 }
 
 .greenbox {
-  background: #d9e8ce;
+  background: #f6ffef;
   padding: 10px;
+  border: solid #b9e5c1 1px;
+}
+
+.greenbox h4 {
+    background: #b9e5c1;
+    border: solid #829185 1px;
+}
+
+img {
+  float:right;
+  max-width: 150px;
+  max-height: 150px;
+  padding: 10px;
+}
+
+h4 {
+  border: solid 1px;
+  padding: 3px;
+}
+
+.bluebox {
+  background: #ced3ef;
+}
+
+.bluebox h4 {
+  background: #a0a8d3;
+}
+
+#ian {
+  float: left;
 }
